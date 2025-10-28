@@ -88,5 +88,5 @@ void dote(int k)
         }
         printf("\n");
     }
-    usleep(150000);
+    usleep(75000);
 }
